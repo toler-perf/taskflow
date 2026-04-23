@@ -6,6 +6,6 @@
 
 1. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com/ВАШ_НИК/taskflow.git
+   git clone https://github.com/toler-perf/taskflow.git
    cd taskflow
    ```
